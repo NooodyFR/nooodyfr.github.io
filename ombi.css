@@ -8,3 +8,7 @@
 * {
     font-family: "Roboto";
 }
+
+.navbar-brand {
+    font-family: "Netflix Sans"!important;
+}
