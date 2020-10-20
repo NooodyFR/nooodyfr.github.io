@@ -3,17 +3,17 @@
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 300;
-    src: local("/NetflixSansLight.otf") format("otf");
+    src: url("/NetflixSansLight.otf") format("otf");
 }
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 500;
-    src: local("/NetflixSansMedium.otf") format("otf");
+    src: url("/NetflixSansMedium.otf") format("otf");
 }
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 700;
-    src: local("/NetflixSansBold.otf") format("otf");
+    src: url("/NetflixSansBold.otf") format("otf");
 }
 
 * {
