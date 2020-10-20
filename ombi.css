@@ -3,17 +3,17 @@
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 300;
-    src: url("/NetflixSansLight.otf") format("otf");
+    src: url("https://nooodyfr.github.io/NetflixSansLight.otf") format("otf");
 }
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 500;
-    src: url("/NetflixSansMedium.otf") format("otf");
+    src: url("https://nooodyfr.github.io/NetflixSansMedium.otf") format("otf");
 }
 @font-face {
     font-family: "Netflix Sans";
     font-weight: 700;
-    src: url("/NetflixSansBold.otf") format("otf");
+    src: url("https://nooodyfr.github.io/NetflixSansBold.otf") format("otf");
 }
 
 * {
